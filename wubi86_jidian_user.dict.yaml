@@ -19,15 +19,18 @@ sort: by_weight
 ...
 ## 这是分组名
 分组词条	wxyt
+
+# 常用英语
 bugfix	bugf
 patch	patc
-协程	fltk	200
 push	push	200
 pull	pull
 Netflix	netf	200
 Disney+	disn	200
 git	git	200
 Spotify	spot	200
+
+## 联系人
 恨少	ivit	200
 清妃	igvn	200
 铁丑	qrnf	200
@@ -39,3 +42,6 @@ Spotify	spot	200
 汪勤飞	ianu	200
 一一	gggg	200
 汪海倩	iiwg	200
+
+# 其他
+协程	fltk	200
