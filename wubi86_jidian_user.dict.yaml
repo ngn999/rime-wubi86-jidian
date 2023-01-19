@@ -22,3 +22,7 @@ sort: by_weight
 bugfix	bugf
 patch	patc
 协程	fltk	200
+push	push	200
+pull	pull
+Netflix	netf	200
+Disney+	disn	200
