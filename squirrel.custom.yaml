@@ -94,15 +94,15 @@ patch:
 #    com.coderforart.MWeb3: # MWeb
 #      ascii_mode: true
     com.apple.Safari: # Safari
-      ascii_mode: true
+      ascii_mode: false
     org.mozilla.firefox:
-      ascii_mode: true
+      ascii_mode: false
     org.gnu.Emacs:
       ascii_mode: true
     com.apple.Spotlight:
       ascii_mode: true
     com.tencent.xinWeChat:
-      ascii_mode: true
+      ascii_mode: false
     org.godotengine.godot:
       ascii_mode: true
 #    co.zeit.hyper: # 程序名
